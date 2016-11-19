@@ -1,2 +1,2 @@
-# Production Serious Games
-Proyecto final empleo digital (Talentum)
+# ProductiveSeriousGames
+Proyecto de Gamificación con Retos, Medallas y Recompensas
